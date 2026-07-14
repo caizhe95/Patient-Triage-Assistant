@@ -1,0 +1,1 @@
+"""Patient triage assistant package."""
