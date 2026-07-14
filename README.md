@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ```bash
 DEEPSEEK_API_KEY=你的 Key
 DEEPSEEK_BASE_URL=https://api.deepseek.com
-DEEPSEEK_MODEL=deepseek-chat
+DEEPSEEK_MODEL=
 QDRANT_URL=
 QDRANT_API_KEY=
 QDRANT_STORAGE_DIR=indexes/qdrant
